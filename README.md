@@ -1,5 +1,5 @@
 # mesh
-a script for creating wireless mesh network. (B.A.T.M.A.N., 802.11s or simple ad-hoc network wihtout a mesh)
+a script for creating wireless mesh network. (B.A.T.M.A.N., 802.11s or simple ad-hoc network without a mesh)
 
 Usage:
 ```bash
@@ -24,4 +24,3 @@ Usage:
 [https://wiki.openwrt.org/doc/howto/mesh.80211s](https://wiki.openwrt.org/doc/howto/mesh.80211s)
 
 [https://github.com/o11s/open80211s/wiki/HOWTO](https://github.com/o11s/open80211s/wiki/HOWTO)
-
