@@ -25,4 +25,4 @@ Usage:
 
 [https://github.com/o11s/open80211s/wiki/HOWTO](https://github.com/o11s/open80211s/wiki/HOWTO)
 
-[https://www.open-mesh.org/projects/batman-adv/wiki/Quick-start-guide] (https://www.open-mesh.org/projects/batman-adv/wiki/Quick-start-guide)
+[https://www.open-mesh.org/projects/batman-adv/wiki/Quick-start-guide](https://www.open-mesh.org/projects/batman-adv/wiki/Quick-start-guide)
