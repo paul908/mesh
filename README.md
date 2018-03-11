@@ -15,7 +15,7 @@ Usage:
 ```
 
 
-#### Sources
+#### References
 
 [http://pastebin.com/4U9vdFFm](http://pastebin.com/4U9vdFFm)
 
